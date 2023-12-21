@@ -20,5 +20,26 @@
         "description": "Description 3",
         "author": "Author 3",
         "publishYear": 2022
+    },
+    {
+        "id": 4,
+        "name": "Book 1",
+        "description": "Description 1",
+        "author": "Author 1",
+        "publishYear": 2020
+    },
+    {
+        "id": 5,
+        "name": "Book 2",
+        "description": "Description 2",
+        "author": "Author 2",
+        "publishYear": 2021
+    },
+    {
+        "id": 6,
+        "name": "Book 3",
+        "description": "Description 3",
+        "author": "Author 3",
+        "publishYear": 2022
     }
 ]
